@@ -1,6 +1,6 @@
 # PDFTables API repositories
 
-![The PDFTables logo](pdftables-logo.svg)
+![The PDFTables logo](https://raw.githubusercontent.com/pdftables/.github/main/profile/pdftables-logo.svg)
 
 This organisation contains several code examples in different languages
 for use with the [PDFTables API](https://pdftables.com/api). 
