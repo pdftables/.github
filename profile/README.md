@@ -13,5 +13,5 @@ but you may find them useful reference examples.
 
 * [R package](https://github.com/expersso/pdftables)
 * [Elixir
-  example](https://github.com/mudssrali/mix_install_examples/blob/main/pdftables_api.exs)
+  example](https://github.com/mudssrali/mix_install_examples/blob/38b3f575d840e3d85a68985edfb46cd2525d0d3d/pdftables_api.exs)
 
